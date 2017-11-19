@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{354A90C5-9722-AA5D-C69E-B3F8F4C1B2FF}|">
+  <MonoDevelop.Ide.ItemProperties.ZoombieKiller PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterStates/CharacterStateBase.cs">
+    <Files>
+      <File FileName="../../TowerWarriors/Unity3D Project/Assets/Scripts/PhotonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FacebookShare.cs" Line="62" Column="29" />
+      <File FileName="Assets/Extensions/MobileSocialPlugin/Example/Scripts/MSP_FacebookAndroidTurnBasedAndGiftsExample.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterStates/CharacterStateBase.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
